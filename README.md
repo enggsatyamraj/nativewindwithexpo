@@ -27,3 +27,20 @@ Make sure you have the following installed on your system:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/enggsatyamraj/nativewindwithexpo.git
+2. Navigate to the project folder:
+   ```bash
+   cd nativewindwithexpo
+3. Install Dependencies:
+   ```bash
+   npm install
+4. Start the development server::
+   ```bash
+   npx expo start
+
+## License
+This project is licensed under the MIT License.
+
+### Created with ❤️ by Satyam Raj
+
+
+   
